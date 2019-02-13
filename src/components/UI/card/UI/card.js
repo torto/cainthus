@@ -7,6 +7,8 @@ const Card = styled.section`
   align-items: center;
   flex-direction: column;
   border-radius: 1rem;
+  box-sizing: border-box;
+  padding: .5rem;
   &:hover:before {
     background: rgba(0, 0, 0, .1);
     border-radius: .2rem;
