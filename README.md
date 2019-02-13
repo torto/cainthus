@@ -18,6 +18,8 @@
 - react-stack-grid: Pinterest like layout components for React.js
 - react-waypoint: A React component to execute a function whenever you scroll to an element
 
+I didn't use react-lazyload because this project is very small, but if it is necessary to the project is very easy to implement after.
+
 ## Run Project
 
   To run this project you need to install all packages in npm, to do it run:
@@ -30,7 +32,7 @@
 
 ### Build - Production
 
-After run this command, a folder "dist" will be created with the files to send to production.
+After running this command, a folder "dist" will be created with the files to send to production.
 
 `$ npm run build`
 
