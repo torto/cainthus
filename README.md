@@ -30,6 +30,8 @@
 
 ### Build - Production
 
+After run this command, a folder "dist" will be created with the files to send to production.
+
 `$ npm run build`
 
 ### Run lint
